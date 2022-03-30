@@ -1,0 +1,8 @@
+# Acknowledgements {-}
+
+This book would not have been written without openness to cooperation of two universities: University of Warsaw and University of Łódź. 
+
+My biggest thanks go to two people from McKinsey, who have been supporting my classes on UoW and WUT for years, inspiring it with ideas for new challenges, ideas and solutions.
+[Mateusz Zawisza](https://www.linkedin.com/in/mateusz-zawisza/) and [Amadeusz Andrzejewski](https://www.linkedin.com/in/amadeusz-andrzejewski-66554bb0/), thank you very much!
+
+*Przemysław Biecek, 2022, Warsaw*

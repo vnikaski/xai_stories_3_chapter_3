@@ -1,0 +1,26 @@
+# Story: name of the story
+
+*Authors: here put a comma-separated list of authors with affiliations*
+
+*Mentors: here put a comma-separated list of mentors with affiliations*
+
+## Introduction 
+
+Here put the introduction to the problem
+
+## Models 
+
+Here describe models
+
+## Explanations 
+
+Here describe explanations
+
+## User Study 
+
+Here describe the user study
+
+## Summary 
+
+Here put the summary
+
